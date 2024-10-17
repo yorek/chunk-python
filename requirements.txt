@@ -1,0 +1,6 @@
+langchain
+langchain_experimental 
+langchain_openai
+python-dotenv
+chunkipy
+transformers
